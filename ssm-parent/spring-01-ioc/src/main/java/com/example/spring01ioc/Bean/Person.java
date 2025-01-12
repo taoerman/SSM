@@ -16,6 +16,6 @@ In particular, it does the following automatically:
 	•	@EqualsAndHashCode (equals and hashCode methods based on the fields)
 	•	@RequiredArgsConstructor for final fields (generates a constructor if any fields are final or marked with @NonNull)
 
-Essentially, @Data bundles together these Lombok annotations
-so you don’t have to write them individually, reducing boilerplate.
+    Essentially, @Data bundles together these Lombok annotations.
+    so you don’t have to write them individually, reducing boilerplate.
  */
